@@ -1,0 +1,689 @@
+price,miles,fuel_type,exterior_color,interior_color,drivetrain,transmission,engine,model_name
+15999,48054, Gasoline, Ruby Red Metallic Tinted Clearcoat, Charcoal Black, RWD,Manual,V2,Mustang
+31795,29050, Gasoline, Glacier White, Gray, RWD,Auto,V6,Model Unknown
+13998,7, Gasoline, Ingot Silver, Charcoal Black, FWD,Auto,V4,Fiesta
+19237,10, Gasoline, Oxford White, Ebony, FWD,Auto,V4,Fusion
+38868,3, Gasoline, Oxford White, Charcoal, Rear Wheel Drive,Auto,V3,Transit-350
+12997,132434, Gasoline, Silver Birch Metallic, Gray, AWD,Auto,V3,Model Unknown
+19431,12, Gasoline, Diamond White - White, Medium Stone Cloth, Four Wheel Drive,Auto,V2,EcoSport
+23347,3, Electric, Lightning Blue, Ebony, FWD,CVT,V4,Fusion Hybrid
+33000,19351, Gasoline, Ingot Silver Metallic, Charcoal, RWD,Auto,V2,Transit-350
+33993,11, E85 Flex Fuel, Oxford White, Pewter, RWD,Auto,V2,Transit-250
+27988,31591, Gasoline, Oxford White, Pewter, RWD,Auto,V3,Model Unknown
+44810,200, Gasoline, Magnetic Metallic, Ebony Black, 4WD,Auto,V2,Explorer
+13831,5, Gasoline, Magnetic Metallic, Cloth Standard Bucket Seats Charcoal Black, FWD,Auto,V2,Focus
+31004,1, Gasoline, Stone Gray, Dune, AWD,Auto,V2,Edge
+66888,51, Diesel, White, Black, 4WD,Auto,V2,F-350
+7997,116283, E85 Flex Fuel, Tuxedo Black Metallic, Medium Light Stone, FWD,Auto,V3,Fusion
+43624,14, E85 Flex Fuel, Oxford White, Medium Earth Gray, 4WD,Auto,V2,F-250
+49123,5, Gasoline, Ingot Silver, Ebony, 4WD,Auto,V2,Expedition Max
+14990,107855, Gasoline, Black, Tan, AWD,Auto,V3,Flex
+11488,32255, E85 Flex Fuel, Magnetic, Charcoal Black, FWD,Auto,V2,Focus
+38385,1, Gasoline, Oxford White, Pewter, RWD,Auto,V2,Transit-250
+49997,31958, Diesel, Shadow Black, Black, 4WD,Auto,V6,F-350
+30498,6, Gasoline, Blue, Ebony Black, 4WD,Auto,V2,Explorer
+33180,10, Gasoline, White Platinum Metallic Tri-Coat, Ebony, AWD,Auto,V4,Edge
+13000,75632, Gasoline, Deep Impact Blue Metallic, Charcoal Black, FWD,Auto,V3,Edge
+29271,11, Gasoline, Oxford White, DK EARTH GRY CLTH FRT ST, 4WD,Auto,V3,F-150
+24997,40002, Gasoline, Magnetic Metallic, Ebony, RWD,Auto,V2,Mustang
+49262,3, Diesel, Oxford White - White, Medium Earth Gray Cloth, Four Wheel Drive,Auto,V6,F-350
+15990,78403, Gasoline, Magnetic Metallic, Charcoal Black, AWD,Auto,V6,Taurus
+34990,11, Gasoline, Magma Red, Medium Earth Gray, 4WD,Auto,V2,F-150
+50881,17, Gasoline, Agate Black Metallic, Ebony Black, 4WD,Auto,V2,Explorer
+6999,65637, Gasoline, Oxford White, Black, FWD,Auto,V4,Fiesta
+16431,3, Gasoline, Lightning Blue, Charcoal Black, FWD,Auto,V4,Focus
+27999,45872, Gasoline, Ruby Red Metallic Tinted Clearcoat, Ebony Black, 4WD,Auto,V2,Explorer
+22798,8, Gasoline, Ruby Red Metallic Tinted Clearcoat, Ebony Black, 4WD,Auto,V2,EcoSport
+57745,8, Gasoline, Ingot Silver, Black, 4WD,Auto,V6,F-150
+25495,12, Gasoline, Blue Metallic, Light Putty, FWD,Auto,V4,Fusion
+16320,2, Gasoline, Magnetic, Charcoal Black, FWD,Auto,V4,Focus
+28135,6, E85 Flex Fuel, Baltic Sea Green Metallic, Medium Light Stone, 4WD,Auto,V4,Escape
+18990,59769, Gasoline, Shadow Black, Ebony, RWD,Auto,V2,Mustang
+18667,2002, Gasoline, Burgundy Velvet Metallic Tinted Clearcoat, Ebony, FWD,Auto,V4,Fusion
+9217,89268, Hybrid, Ruby Red Metallic Tinted Clearcoat, Medium Light Stone, FWD,CVT,V2,C-Max Hybrid
+19861,27343, Gasoline, Shadow Black, Ebony, FWD,Auto,V2,Fusion
+22830,64643, Gasoline, Magnetic Metallic, Charcoal Black, AWD,Auto,V3,Flex
+20790,17156, Gasoline, Ruby Red Metallic Tinted Clearcoat, Ebony, RWD,Auto,V4,Mustang
+14000,42979, Gasoline, Ruby Red Tinted Clearcoat, Charcoal Black, FWD,Auto,V4,Fusion
+31700,28305, Gasoline, Oxford White, Pewter, RWD,Auto,V2,Transit-250
+20490,93871, Gasoline, White Platinum Metallic Tri-Coat, Chaparral/Pale Adobe, 4WD,Auto,V2,F-150
+19389,6, E85 Flex Fuel, Shadow Black, Charcoal Black, FWD,Auto,V2,Focus
+37100,2, E85 Flex Fuel, Oxford White, Pewter, RWD,Auto,V2,Transit-250
+13895,6209, Gasoline, White, Black, FWD,Manual,V4,Fiesta
+46319,78, Gasoline, Shadow Black, Medium Earth Gray, 4WD,Auto,V2,F-150
+15296,8628, Gasoline, Ruby Red Metallic Tinted Clearcoat, Charcoal Black, FWD,Auto,V2,Focus
+31995,1735, Gasoline, Ingot Silver Metallic, Ebony, AWD,Auto,V2,Edge
+36957,10, Gasoline, Oxford White, Ebony Black, AWD,Auto,V6,Fusion
+26594,40472, Gasoline, Silver, Dune, FWD,Auto,V2,Flex
+46930,8, Gasoline, White, Medium Stone, 4WD,Auto,V2,Explorer
+38999,5, Gasoline, Magnetic, Medium Earth Gray, 4WD,Auto,V2,F-150
+32576,3636, Gasoline, White, Ebony Black, FWD,Auto,V2,Explorer
+5626,96051, Gasoline, Alloy Metallic, Pebble, FWD,Auto,V2,Freestar
+19672,13323, Gasoline, Ruby Red Metallic Tinted Clearcoat, Charcoal Black, AWD,Auto,V2,Fusion
+25424,12, Gasoline, Shadow Black, Charcoal Black, 4WD,Auto,V4,Escape
+26398,6, Gasoline, Lightning Blue, Chromite Gray/Charcoal Black, 4WD,Auto,V4,Escape
+45100,3, Gasoline, Shadow Black, Ebony, RWD,Auto,V3,Mustang
+12536,100525, Gasoline, Bordeaux Reserve Red Metallic, Medium Light Stone, FWD,Auto,V3,Edge
+24667,50175, Gasoline, Gray, Ebony, AWD,Auto,V2,Edge
+26500,2, Gasoline, Ruby Red, Charcoal Black, 4WD,Auto,V4,Escape
+20602,5093, E85 Flex Fuel, Frozen White Metallic, Black, FWD,Auto,V2,Transit Connect
+26520,6, Gasoline, Frozen White, Ebony, FWD,Auto,V2,Transit Connect
+12998,41005, E85 Flex Fuel, Silver, Charcoal Black, FWD,Auto,V2,Focus
+27874,78132, Gasoline, White, Black, 4WD,Auto,V2,F-150
+21953,153772, Diesel, Dark Blue Pearl, Camel, 4WD,Auto,V3,F-250
+22985,14, Gasoline, Magnetic Metallic, Ebony, FWD,Auto,V2,Fusion
+27839,4, Gasoline, Magnetic Metallic, CHAR BLK HTD UNQ MAT TRM BKT, FWD,Auto,V4,Escape
+24000,34116, Gasoline, Magnetic Metallic, Ebony, AWD,Auto,V2,Edge
+32691,10, E85 Flex Fuel, Oxford White, Medium Earth Gray, 4WD,Auto,V2,F-150
+12498,85021, Gasoline, Black, Charcoal Black, FWD,Auto,V6,Taurus
+49630,2672, Gasoline, Black, Black, RWD,Manual,V3,Mustang
+38823,1, Gasoline, Shadow Black, Medium Earth Gray, 4WD,Auto,V2,F-150
+27337,10, Gasoline, Frozen White, Ebony, FWD,Auto,V2,Transit Connect
+17900,69338, Gasoline, Redfire Metallic, Medium Dark Flint, 4WD,Manual,V4,Ranger
+22673,8634, Gasoline, Ingot Silver Metallic, Ebony, AWD,Auto,V2,Fusion
+10624,65452, E85 Flex Fuel, White, Medium Soft Ceramic, FWD,Auto,V2,Focus
+1595,183170, Gasoline, Silver, Gray, FWD,Auto,V2,Freestar
+22404,127978, Diesel, Dark Blue, Steel, 4WD,Auto,V2,F-250
+50493,14, Gasoline, Agate, Ebony, 4WD,Auto,V2,Explorer
+24990,20434, Gasoline, Ruby Red Metallic Tinted Clearcoat, Dune, AWD,Auto,V2,Edge
+36562,11, Gasoline, White, Ebony Black, 4WD,Auto,V2,Explorer
+10624,65452, E85 Flex Fuel, White, Medium Soft Ceramic, FWD,Auto,V2,Focus
+27068,63757, E85 Flex Fuel, Black, Black, 4WD,Auto,V2,Expedition EL
+38411,12, Gasoline, Oxford White, Ebony, RWD,Manual,V2,Mustang
+30030,5, E85 Flex Fuel, Ruby Red, Medium Light Stone, FWD,Auto,V4,Escape
+42913,100, Gasoline, Shadow Black, Black, 4WD,Auto,V2,F-150
+24300,108483, Gasoline, Oxford White, Black w/Unique Leather Front Bucket Seats w/Center, 4WD,Auto,V3,F-150
+19590,4, E85 Flex Fuel, Ingot Silver Metallic, Dune, FWD,Auto,V3,Taurus
+43360,5, Gasoline, Black, Ebony Black, AWD,Auto,V3,Explorer
+21227,10, E85 Flex Fuel, Chili Pepper Red, Charcoal Black, FWD,Auto,V2,Focus
+21896,6877, Gasoline, Race Red, Ebony, RWD,Auto,V4,Mustang
+43925,3, Gasoline, White Platinum Metallic Tri-Coat, Ebony, AWD,Auto,V4,Edge
+31588,6063, Gasoline, Oxford White, Ebony Black Cloth, Front,Auto,V3,Explorer
+18606,2080, Hybrid, Hot Pepper Red Tinted Clearcoat, Charcoal Black, FWD,CVT,V2,C-Max Hybrid
+28310,11, Gasoline, Silver, Gray, FWD,Auto,V2,Transit Connect
+23580,10, Gasoline, Lightning Blue Metallic, Charcoal Black Interior, FWD,Auto,V2,Escape
+45780,4911, Gasoline, White, Ebony Black, 4WD,Auto,V2,Explorer
+26631,1, E85 Flex Fuel, Orange Metallic, Charcoal Black, 4WD,Auto,V4,Escape
+22400,68558, Gasoline, White, Black, AWD,Auto,V2,Flex
+9878,83390, E85 Flex Fuel, Race Red, Charcoal Black w/Warm Steel Surround w/Cloth Front, FWD,Auto,V2,Focus
+34682,4, Gasoline, Magnetic, Medium Earth Gray, 4WD,Auto,V2,F-150
+16234,5, Gasoline, Magnetic Metallic, Charcoal Black, FWD,Auto,V2,Focus
+23500,18107, E85 Flex Fuel, Oxford White, Pewter, RWD,Auto,V2,Transit-250
+23682,5, E85 Flex Fuel, Magnetic, Medium Earth Gray, RWD,Auto,V2,F-150
+32088,8784, Gasoline, Silver, Black, FWD,Auto,V2,Model Unknown
+37000,11581, Gasoline, Oxford White, Black, 4WD,Auto,V2,F-150
+32995,53443, Gasoline, Red, Dune, 4WD,Auto,V2,Expedition
+24489,1, Gasoline, Shadow Black, Ebony Black, 4WD,Auto,V2,EcoSport
+25585,6, Gasoline, Ingot Silver, Charcoal Black, 4WD,Auto,V4,Escape
+16755,24564, Gasoline, Deep Impact Blue, Other, Front Wheel Drive,Auto,V4,Escape
+32999,6797, E85 Flex Fuel, Oxford White, Charcoal, RWD,Auto,V2,Transit-350
+13349,90574, Gasoline, White Platinum Tri-Coat Metallic, Medium Light Stone, AWD,Auto,V2,Edge
+28930,14, Gasoline, Ruby Red, Charcoal Black, 4WD,Auto,V4,Escape
+25968,15, Gasoline, Ingot Silver, Medium Light Stone, 4WD,Auto,V4,Escape
+19901,28964, Gasoline, Ingot Silver, Charcoal Black, FWD,Auto,V4,Escape
+19888,15987, E85 Flex Fuel, White Platinum Tri-Coat Metallic, Dune, FWD,Auto,V2,Taurus
+23492,9, E85 Flex Fuel, Magnetic, Dune, FWD,Auto,V2,Taurus
+52688,23958, Diesel, Black, Black, 4WD,Auto,V4,F-350
+23847,22, Gasoline, Smoke Metallic, Ebony, FWD,Auto,V3,EcoSport
+34462,10, Gasoline, Magnetic Metallic, Ebony Black, FWD,Auto,V2,Explorer
+20435,4, Gasoline, Lightning Blue Metallic, Charcoal Black, FWD,Auto,V2,Focus
+17076,10, Gasoline, Shadow Black, Medium Stone, FWD,Auto,V3,EcoSport
+35868,5, Gasoline, Oxford White, Charcoal, RWD,Auto,V3,Transit-250
+12519,1, Gasoline, Chili Pepper Red, Charcoal Black, FWD,Auto,V4,Fiesta
+28569,10, Gasoline, Ingot Silver Metallic, Medium Stone, 4WD,Auto,V2,Explorer
+27992,8, E85 Flex Fuel, Magnetic Metallic, Charcoal Black, FWD,Auto,V2,Taurus
+33452,2052, Gasoline, Ingot Silver, Ebony Black, AWD,Auto,V3,Explorer
+13977,28075, Gasoline, Silver, Earth Gray, FWD,Auto,V2,Fusion
+19496,10307, Hybrid, Magnetic Metallic, Medium Light Stone, FWD,CVT,V4,C-Max Energi
+37663,1, Gasoline, Shadow Black, EBONY LT, AWD,Auto,V2,Edge
+35432,3, Gasoline, Oxford White, pewter, RWD,Auto,V2,Transit-250
+38740,2, Gasoline, Kona Blue Metallic, Ebony, RWD,Auto,V2,Mustang
+24739,10, Gasoline, Shadow Black, Ebony Black, 4WD,Auto,V2,EcoSport
+4481,133152, Gasoline, Black, Black, FWD,Auto,V2,Fusion
+69085,8, Diesel, White Platinum Tri-Coat Metallic, Black, 4WD,Auto,V2,F-350
+52282,14, E85 Flex Fuel, Oxford White, Black / Dark Marsala, 4WD,Auto,V2,F-250
+11641,82019, Gasoline, Black, Tan, AWD,Auto,V4,Escape
+44728,6, Gasoline, Agate Black Metallic, Ebony Black/Copper Insert, 4WD,Auto,V2,Explorer
+6450,101802, Gasoline, Black, Black, FWD,Auto,V2,Focus
+14900,46296, Gasoline, White, Black, FWD,Auto,V2,Fusion
+26085,2, E85 Flex Fuel, Ruby Red Metallic Tinted Clearcoat, Charcoal Black, FWD,Auto,V2,Taurus
+12900,66212, E85 Flex Fuel, Steel Blue Metallic, Charcoal Black, 4WD,Auto,V2,Escape
+28480,10, Gasoline, Ingot Silver Metallic, Ebony, RWD,Auto,V2,Mustang
+13988,29020, Gasoline, Ruby Red Metallic Tinted Clearcoat, Charcoal Black, FWD,Auto,V4,Fusion
+26826,17092, Gasoline, Shadow Black, Ebony, AWD,Auto,V2,Edge
+42915,7, E85 Flex Fuel, Oxford White, Medium Earth Gray, 4WD,Auto,V2,F-250
+14000,5, Gasoline, Chili Pepper Red, Charcoal Black, FWD,Auto,V4,Fiesta
+22420,5, Gasoline, Frozen White, Ebony, FWD,Auto,V2,Transit Connect
+25917,10, Gasoline, Magnetic Metallic, Charcoal Black, 4WD,Auto,V4,Escape
+60999,3, Gasoline, Shadow Black, Black, 4WD,Auto,V2,Expedition Max
+40999,5, Gasoline, Guard, Medium Earth Gray, 4WD,Auto,V2,F-150
+19342,5, Gasoline, Ruby Red Metallic Tinted Clearcoat, Ebony, FWD,Auto,V4,Fusion
+31167,253, Gasoline, Oxford White, Pewter, RWD,Auto,V2,Transit-150
+51265,4, Gasoline, Blue Metallic, Dark Earth Gray, AWD,Auto,V2,Flex
+16926,3058, Gasoline, Magnetic, Ebony, FWD,Auto,V4,Fusion
+8995,17054, Gasoline, Red, GRAY, FWD,Auto,V6,Fiesta
+46600,10, Gasoline, Guard, Medium Earth Gray, 4WD,Auto,V2,F-150
+37477,20, Gasoline, Blue, Charcoal, RWD,Auto,V2,Transit-250
+14490,71696, Gasoline, Slate Metallic, Charcoal Black, FWD,Auto,V2,Edge
+14335,5, Gasoline, Lightning Blue Metallic, Charcoal Black, FWD,Auto,V4,Fiesta
+14500,63459, Gasoline, Black, Black, FWD,Auto,V2,Taurus
+17765,5, Gasoline, Magnetic, Charcoal Black, FWD,Auto,V2,Focus
+16431,26, Gasoline, White Gold, Medium Light Stone, FWD,Auto,V4,Focus
+15614,28786, Gasoline, Oxford White, Charcoal Black, FWD,Auto,V2,Escape
+43775,2, Gasoline, Ft Blue Metallic, Ebony, 4WD,Auto,V3,Explorer
+14591,2, Gasoline, Ingot Silver, Charcoal Black, FWD,Auto,V4,Fiesta
+10980,59395, Gasoline, Colorado Red, Black, 2WD,Auto,V2,Ranger
+78087,12, Gasoline, Agate Black Metallic, Ebony, 4WD,Auto,V2,Expedition
+50493,14, Gasoline, Agate, Ebony, 4WD,Auto,V2,Explorer
+24619,63, Gasoline, Shadow Black, LEATHER-TRIM BUCKET SEATS CHARCOAL BLACK, FWD,Auto,V2,Focus
+45740,7, Gasoline, Oxford White, Ebony, RWD,Manual,V3,Mustang
+4497,162660, Gasoline, Red, Select, RWD,Auto,V2,Mustang
+25765,23359, Gasoline, White Platinum Tri-Coat Metallic, Medium Soft Ceramic, AWD,Auto,V2,Fusion
+35945,2, Gasoline, Ruby Red, Ebony, AWD,Auto,V2,Edge
+19656,25414, Gasoline, Ingot Silver Metallic, Charcoal Black, 4WD,Auto,V4,Escape
+25243,14, Gasoline, Canyon Ridge Metallic, Ebony, 4WD,Auto,V2,EcoSport
+16890,37234, Hybrid, Shadow Black, Ebony, FWD,Auto,V2,Fusion Hybrid
+53494,31564, Diesel, Oxford White, Adobe, 4WD,Auto,V2,F-350
+17777,102279, Gasoline, Black, Charcoal Black, FWD,Auto,V2,Flex
+35198,48663, Gasoline, Magnetic, Ebony, 4WD,Auto,V2,Expedition EL
+38136,1, Gasoline, Oxford White, Charcoal Black, RWD,Auto,V2,Transit-250
+31998,16308, Gasoline, Oxford White, Medium Earth Gray, 4WD,Auto,V2,F-150
+38265,2, E85 Flex Fuel, Oxford White, Medium Earth Gray, 4WD,Auto,V2,F-150
+8950,103000, Unknown, Kodiac Brown Metallic, Tan, FWD,Auto,V3,Taurus
+79596,10, Diesel, White Platinum Tri-Coat, Black, 4X4,Auto,V6,F-350
+17395,19215, Gasoline, Black, Medium Light Stone, FWD,Auto,V4,Escape
+17845,87, E85 Flex Fuel, Magnetic, Charcoal Black, FWD,Auto,V2,Focus
+27995,6380, Gasoline, White, Tan, RWD,Auto,V3,Model Unknown
+80116,5, Gasoline, White Platinum Tri-Coat Metallic, Medium Soft Ceramic, 4WD,Auto,V2,Expedition Max
+20000,35442, Gasoline, Green, Black, RWD,Manual,V2,Mustang
+25913,10, E85 Flex Fuel, Ruby Red, Charcoal Black, FWD,Auto,V4,Escape
+20500,18866, Hybrid, Lightning Blue, Ebony, FWD,CVT,V2,Fusion Hybrid
+36731,7, Gasoline, Oxford White, Medium Earth Gray, 4WD,Auto,V2,F-150
+13770,80203, Gasoline, Ruby Red Metallic, Medium Light Stone, ALL WHEEL,Auto,V3,Edge
+33936,12, Gasoline, White Platinum Metallic Tri-Coat, Ebony, AWD,Auto,V2,Edge
+57442,7, Gasoline, Black Sapphire Metallic, Brown, AWD,Auto,V3,Model Unknown
+10500,61803, Gasoline, Bordeaux Reserve, Dune, FWD,Auto,V4,Fusion
+47995,14428, Diesel, White, Gray, 4WD,Auto,V2,F-250
+13586,114091, Gasoline, White Platinum Tricoat, Charcoal Black w/Heated Full Leather-Trimmed Sport, 4WD,Auto,V2,Escape
+18938,113172, E85 Flex Fuel, Black, Charcoal Black, 4WD,Auto,V2,Explorer
+39261,1, Gasoline, Kona Blue Metallic, Ebony, RWD,Auto,V5,Mustang
+34441,3, E85 Flex Fuel, Oxford White, Medium Earth Gray, 4WD,Auto,V2,F-250
+58305,3, Gasoline, Oxford White, Ebony, RWD,Manual,V2,Shelby GT350
+14499,98549, Gasoline, Black, Sienna / Charcoal Black, AWD,Auto,V2,Edge
+22294,11, Gasoline, Shadow Black, Ebony Black, 4WD,Auto,V2,EcoSport
+45888,200, Gasoline, Oxford White, Pewter W/Vinyl Front Bucket Seats, RWD,Auto,V2,Transit-350
+40999,2, Gasoline, White Platinum Tri-Coat Metallic, Ebony, 4WD,Auto,V2,Explorer
+17309,5, Gasoline, Magnetic Metallic, Charcoal Black, FWD,Auto,V2,Focus
+8477,169705, Gasoline, Red Candy Metallic, Medium Light Stone, AWD,Auto,V2,Flex
+31988,116189, Diesel, Oxford White, Black, 4WD,Auto,V2,F-350
+23996,49845, Gasoline, Black, Charcoal Black, AWD,Auto,V2,Flex
+20998,64401, Gasoline, Silver, Black, AWD,Auto,V2,Edge
+55630,142, Gasoline, Magnetic Metallic, Ebony Black, 4WD,Auto,V2,Explorer
+12998,58502, Gasoline, Tectonic, Ebony, FWD,Auto,V2,Fusion
+67917,12726, Diesel, Ingot Silver Metallic, Black, 4WD,Auto,V4,F-350
+16998,110844, Gasoline, White Platinum Tri-Coat Metallic, Charcoal Black, AWD,Auto,V2,Edge
+7995,114680, E85 Flex Fuel, Burgundy, Gray, FWD,Auto,V2,Focus
+74990,5, Diesel, Agate Black, Black, 4WD,Auto,V2,F-350
+31533,7, Gasoline, Ruby Red, Medium Light Stone, 4WD,Auto,V2,Escape
+75037,10, Gasoline, White Platinum Tri-Coat Metallic, Medium Stone, 4WD,Auto,V2,Expedition Max
+49266,3, Gasoline, Magnetic Metallic, Black, RWD,Auto,V2,Mustang
+34410,13, Gasoline, Oxford White, Cloth Pewter, RWD,Auto,V6,Transit-150
+37500,51, Gasoline, Ingot Silver Metallic, Pewter, RWD,Auto,V2,Transit-350
+71380,8698, Diesel, White Platinum Tri-Coat Metallic, Black, 4WD,Auto,V2,F-250
+41947,9, Gasoline, Shadow Black, Medium Light Camel, 4WD,Auto,V2,F-150
+15728,20107, Gasoline, Ruby Red Metallic Tinted Clearcoat, Black, FWD,Auto,V4,Fusion
+34895,6, Gasoline, Shadow Black, Charcoal Black, FWD,Auto,V2,Taurus
+56980,13, Diesel, Bright White Clearcoat, Diesel Gray/Black, 4WD,Auto,V4,Model Unknown
+21999,81398, Diesel, Red, Medium Stone, 4WD,Auto,V2,F-350
+22939,23128, Gasoline, Red, Ebony, FWD,Auto,V2,Edge
+27952,39967, Gasoline, Shadow Black, Charcoal Black, AWD,Auto,V2,Flex
+59906,4, Gasoline, Ruby Red Metallic Tinted Clearcoat, Medium Stone, RWD,Auto,V2,Expedition
+48471,10, Gasoline, Ingot Silver Metallic, Ebony Black, 4WD,Auto,V2,Explorer
+24848,4, Gasoline, Blue Metallic, Black, FWD,Manual,V2,Focus ST
+50048,1, Gasoline, Ingot Silver Metallic - Silver, Medium Earth Gray Cloth, Four Wheel Drive,Auto,V3,F-150
+37085,4, E85 Flex Fuel, White, Pewter, RWD,Auto,V2,Transit-250
+47668,4, Gasoline, Oxford White, Black, 4WD,Auto,V2,F-150
+13000,9071, Gasoline, Gray, Charcoal Black, FWD,Manual,V2,Focus
+20762,14168, E85 Flex Fuel, Oxford White, Charcoal Black, FWD,Auto,V2,Taurus
+39989,98288, Diesel, Oxford White, Black, 4WD,Auto,V2,F-250
+75000,761, Gasoline, Gray, Black, Rear Wheel Drive,Manual,V8,Mustang
+25658,5, Gasoline, Shadow Black, Ebony, AWD,Auto,V2,Edge
+10950,93905, Gasoline, White, Gray, FWD,Auto,V2,Transit Connect
+4995,182962, Diesel, Blue, Gray, 4WD,Auto,V6,F-350
+21995,9495, Gasoline, Screaming Yellow, Dark Charcoal, RWD,Auto,V2,Mustang
+12489,27471, E85 Flex Fuel, Kona Blue, Charcoal Black, FWD,Auto,V2,Focus
+18999,49717, Gasoline, Tuxedo Black, Charcoal Black, AWD,Auto,V2,Escape
+11998,36100, E85 Flex Fuel, Red, Charcoal Black, FWD,Auto,V2,Focus
+43061,2, Gasoline, Ruby Red Metallic, Medium Light Camel, 4WD,Auto,V2,F-150
+18495,39338, Gasoline, Silver, Ebony, RWD,Auto,V4,Mustang
+15545,61303, Gasoline, Silver, Charcoal Black, FWD,Auto,V2,Taurus
+23570,10, Gasoline, Frozen White, Ebony, FWD,Auto,V2,Transit Connect
+42000,1, Gasoline, White Platinum Clearcoat Metallic, Charcoal Black, AWD,Auto,V2,Flex
+17995,155686, Diesel, Oxford White, Camel, 4WD,Auto,V2,F-350
+19950,40226, Gasoline, Burgundy, Gray, Automatic 5-Speed,Auto,V6,F-250
+27451,5, Gasoline, Shadow Black, Ebony, FWD,Auto,V2,Edge
+33851,8, E85 Flex Fuel, Black Metallic, Charcoal Black, 4WD,Auto,V2,Escape
+23995,16845, Gasoline, White, Medium Pewter, RWD,Auto,V2,Model Unknown
+16995,10, Gasoline, Magnetic Metallic, Medium Light Stone, FWD,Auto,V2,Focus
+29799,91435, Gasoline, White Platinum Clearcoat Metallic, Ebony, 4WD,Auto,V2,Expedition EL
+15999,80480, Gasoline, White, Black, AWD,Auto,V2,Edge
+11631,29989, E85 Flex Fuel, Ingot Silver, Charcoal Black, FWD,Auto,V2,Focus
+16036,27365, Gasoline, White Platinum Tri-Coat Metallic, Medium Soft Ceramic, FWD,Auto,V4,Fusion
+16995,82588, Gasoline, White, Black, 4WD,Auto,V2,Explorer
+24520,55819, Gasoline, Ingot Silver Metallic, Ebony, AWD,Auto,V2,Edge
+30539,22993, Gasoline, Blue Jeans Metallic, Dark Earth Gray, AWD,Auto,V3,Explorer
+11414,32890, Gasoline, Magnetic, Charcoal Black, FWD,Auto,V2,Focus
+55999,21235, Gasoline, Shadow Black, Ebony, 4WD,Auto,V2,Expedition Max
+34977,13399, Gasoline, Electric Red, White Leather, RWD,Auto,V5,Mustang
+16096,6, Gasoline, Shadow Black, Charcoal Black, FWD,Auto,V2,Focus
+25993,12, E85 Flex Fuel, Ruby Red Metallic, Charcoal Black, FWD,Auto,V2,Taurus
+39138,3, Gasoline, Black Metallic, Ebony Black, 4WD,Auto,V2,Explorer
+29000,42580, Gasoline, Gray, Ebony Black, 4WD,Auto,V2,Explorer
+36581,2, Gasoline, Oxford White, Ebony Black, FWD,Auto,V2,Explorer
+43545,10, Gasoline, Magnetic, Ebony, 4WD,Auto,V2,Explorer
+26995,36226, Gasoline, Oxford White, Pewter, RWD,Auto,V2,Transit-250
+44765,3, E85 Flex Fuel, Magma Red Metallic, Dark Earth Gray, 4WD,Auto,V6,F-150
+21750,13, E85 Flex Fuel, Magnetic Metallic, Charcoal Black, FWD,Auto,V2,Taurus
+18780,29661, Gasoline, Gray, Gray, FWD,Manual,V2,Focus ST
+5495,162323, Gasoline, Gray, Black, FWD,Auto,V2,Fusion
+26999,34918, Gasoline, White Platinum Tri-Coat Metallic, Black, AWD,Auto,V2,Edge
+33788,1, Gasoline, White Platinum Metallic Tri-Coat, Charcoal Black, 4WD,Auto,V2,Escape
+25000,39090, E85 Flex Fuel, Ingot Silver Metallic, Charcoal, RWD,Auto,V2,Transit-150
+35237,3, Gasoline, Shadow Black, Ebony, RWD,Auto,V2,Mustang
+41465,12, Gasoline, Ruby Red Metallic Tinted Clearcoat, Medium Earth Gray, 4WD,Auto,V2,F-150
+18015,5, Gasoline, Oxford White, Charcoal Black, FWD,Auto,V2,Focus
+41135,8, Gasoline, Shadow Black, Ebony Black, 4WD,Auto,V2,Explorer
+36491,3, Gasoline, White, Ebony Black, FWD,Auto,V3,Explorer
+19578,93, Gasoline, Shadow Black, Medium Stone, 4WD,Auto,V2,EcoSport
+46215,25, E85 Flex Fuel, Ruby Red Metallic Tinted Clearcoat, Medium Earth Gray, 4WD,Auto,V2,F-250
+23435,10, Gasoline, White Platinum Tri-Coat Metallic, Charcoal Black, 4WD,Auto,V4,Escape
+40574,2, Gasoline, Ruby Red Metallic Tinted Clearcoat, Ebony, AWD,Auto,V2,Edge
+8000,81296, Gasoline, Cinnamon, Charcoal Black, Front Wheel Drive,Auto,V2,Fusion
+55270,10, Gasoline, Ingot Silver, Ebony, 4WD,Auto,V2,Expedition
+16995,10, Gasoline, Magnetic Metallic, Medium Light Stone, FWD,Auto,V2,Focus
+25410,2, Gasoline, Oxford White, Ebony, FWD,Auto,V4,Fusion
+28746,88189, Diesel, Dark Shadow Gray Metallic, Gray, 4WD,Auto,V3,F-350
+39145,1, Gasoline, Oxford White, Pewter, RWD,Auto,V2,Transit-250
+25375,6, Gasoline, Smoke, Ebony Black, 4WD,Auto,V2,EcoSport
+23735,4, Gasoline, J7 Magnetic Metallic, Ebony, FWD,Auto,V2,Fusion
+28664,95, Gasoline, Ruby Red Metallic Tinted Clearcoat, Charcoal Black, 4WD,Auto,V4,Escape
+19991,80395, Gasoline, Black, Charcoal Black, RWD,Auto,V3,Mustang
+8995,83433, Gasoline, Black, Black, FWD,Auto,V2,Focus
+26651,3, E85 Flex Fuel, Burgundy Velvet Metallic Tinted Clearcoat - Red, Dune Leather, Front Wheel Drive,Auto,V3,Taurus
+21995,22275, Gasoline, Ingot Silver, Charcoal Black, 4WD,Auto,V2,Escape
+27990,5, E85 Flex Fuel, Ruby Red, Charcoal Black, 4WD,Auto,V4,Escape
+67238,1, Gasoline, Shadow Black, Ebony, 4WD,Auto,V2,Expedition
+15700,5, Gasoline, Shadow Black, Charcoal Black, FWD,Auto,V4,Focus
+21036,10, Gasoline, Ingot Silver, Ebony, FWD,Auto,V4,Fusion
+22946,9, Gasoline, G1 Shadow Black, MT CLOTH/VNL SEATS EBONY, FWD,Auto,V4,Fusion
+41945,2, Gasoline, Magnetic Metallic, Ebony, RWD,Auto,V8,Mustang
+36902,3, Gasoline, Ruby Red Metallic, Black, 4WD,Auto,V2,F-150
+41997,91941, Diesel, White, Black, 4WD,Auto,V6,F-250
+14467,27539, Gasoline, Shadow Black, Charcoal Black, FWD,Auto,V4,Fiesta
+5895,58786, Gasoline, Silver, Gray, RWD,Auto,V2,Mustang
+19912,6631, Hybrid, Ruby Red Metallic Tinted Clearcoat, Medium Light Stone, FWD,CVT,V2,C-Max Hybrid
+27993,7, Gasoline, Magnetic, Ebony, RWD,Auto,V2,Mustang
+9495,120738, Gasoline, White, Gray, FWD,Auto,V2,Taurus
+33000,16070, Gasoline, Red, Black, AWD,Auto,V2,Flex
+53900,24091, Gasoline, Silver, Black, 4WD,Auto,V2,Expedition
+33110,9, Gasoline, Oxford White, Medium Earth Gr, 4WD,Auto,V2,F-150
+28440,2, Gasoline, Ruby Red Metallic Tinted Clearcoat, Charcoal Black, 4WD,Auto,V4,Escape
+17040,4, Gasoline, Moondust Silver Metallic, Medium Stone, 4WD,Auto,V2,EcoSport
+65275,73797, Gasoline, White Platinum Tri-Coat Metallic, Ebony, 4WD,Auto,V2,Expedition
+42075,5, Gasoline, Blue Jeans Metallic, Cloth Charcoal, RWD,Auto,V2,Transit-350
+23689,5, Gasoline, Smoke Metallic, Ebony Black, 4WD,Auto,V2,EcoSport
+37724,1, E85 Flex Fuel, Oxford White, Medium Earth Gray, 4WD,Auto,V2,F-250
+23634,35082, Gasoline, Blue Metallic, Dune, AWD,Auto,V2,Edge
+14505,6, Gasoline, Chili Pepper Red, Charcoal Black, FWD,Manual,V4,Fiesta
+16048,2055, E85 Flex Fuel, Oxford White, Charcoal Black, FWD,Auto,V2,Focus
+18434,1, E85 Flex Fuel, Lightning Blue Metallic, Charcoal Black, FWD,Auto,V2,Focus
+32435,1, Gasoline, Magnetic, Charcoal Black, 4WD,Auto,V4,Escape
+15669,20587, Gasoline, White Platinum Tri-Coat Metallic, Ebony, FWD,Auto,V2,Fusion
+40173,6, Gasoline, Oxford White, Dark Earth Gray, 4WD,Auto,V2,F-150
+42889,5127, Gasoline, White Metallic, Ebony Black, 4WD,Auto,V2,Explorer
+17600,17647, E85 Flex Fuel, White Platinum Metallic Tri-Coat, Medium Soft Ceramic, Front Wheel Drive,Auto,V2,Focus
+63235,3, Gasoline, Shadow Black, Ebony, RWD,Manual,V2,Shelby GT350
+15000,48932, Hybrid, Red, Black, FWD,CVT,V2,C-Max Hybrid
+31004,1, Gasoline, Stone Gray, Dune, AWD,Auto,V2,Edge
+48580,54187, Diesel, White, Black, 4WD,Auto,V4,F-250
+29180,7615, Gasoline, Black, Black, RWD,Manual,V3,Mustang
+28239,5, Gasoline, Ruby Red, Ebony, RWD,Auto,V2,Mustang
+52520,2, Gasoline, Magnetic, Earth, 4WD,Auto,V2,F-150
+19990,104416, E85 Flex Fuel, Brown, Charcoal, Automatic 6-Speed,Auto,V2,F-250
+56980,12, Diesel, Bright White Clearcoat, Diesel Gray/Black, 4WD,Auto,V4,Model Unknown
+8998,55116, Gasoline, Green, Black, FWD,Manual,V4,Fiesta
+15990,17838, E85 Flex Fuel, Ingot Silver Metallic, Charcoal Black, FWD,Auto,V2,Focus
+26654,35855, Gasoline, Gray, Ebony, FWD,Auto,V3,Explorer
+7999,57576, Gasoline, Black, Gray, FWD,Auto,V4,Fiesta
+27556,2, Gasoline, Magnetic, Ebony, AWD,Auto,V2,Edge
+2500,215407, Gasoline, White, Tan, FWD,Auto,V2,Fusion
+10500,56758, Gasoline, Oxfordwhite, Gray/black, 4X2,Auto,V2,Ranger
+33212,2, Gasoline, Shadow Black, Ebony, RWD,Auto,V2,Mustang
+2500,168077, Gasoline, Arizona Beige Clearcoat Metallic, Medium Parchment, FWD,Auto,V2,Taurus
+34982,19190, Gasoline, Shadow Black, Ebony Black w/Perforated Leather Heated/Cooled Buc, 4WD,Auto,V3,Explorer
+34990,60755, Gasoline, Ingot Silver, Ebony, 4WD,Auto,V3,Expedition EL
+35198,48663, Gasoline, Magnetic, Ebony, 4WD,Auto,V2,Expedition EL
+52611,3, Gasoline, Agate Black Metallic, Medium Soft Ceramic, 4WD,Auto,V2,Explorer
+18995,90881, Gasoline, Red, Gray, RWD,Auto,V2,Transit-350
+66323,6, Gasoline, Shadow Black, Ebony, 4WD,Auto,V2,Expedition
+29095,2, E85 Flex Fuel, Oxford White, Charcoal, 4WD,Auto,V4,Escape
+13831,5, Gasoline, Ingot Silver Metallic, Cloth Standard Bucket Seats Charcoal Black, FWD,Auto,V2,Focus
+4995,201308, Gasoline, Pueblo Gold Metallic, Camel, Four Wheel Drive,Auto,V4,Expedition
+42499,5, Gasoline, Magnetic Metallic, Medium Earth Gray, 4WD,Auto,V3,F-150
+26885,22184, Gasoline, Oxford White, Charcoal Black, AWD,Auto,V2,Flex
+56987,5, Gasoline, Ingot Silver, Ebony, 4WD,Auto,V2,Expedition Max
+19995,13662, Gasoline, Shadow Black, Ebony, RWD,Auto,V2,Mustang
+21994,5817, Gasoline, Bronze Fire, Charcoal Black, AWD,Auto,V2,Fusion
+70830,10, Gasoline, Black, Black, 4WD,Auto,V2,F-150
+30280,5, Gasoline, Magnetic Metallic, Charcoal, RWD,Auto,V2,Transit-250
+21500,24642, Gasoline, Ruby Red Metallic Tinted Clearcoat, Ebony, RWD,Auto,V2,Mustang
+24718,1, Gasoline, Moondust Silver Metallic, Ebony Black, 4WD,Auto,V2,EcoSport
+16250,21097, Gasoline, Ingot Silver Metallic, Medium Light Stone, FWD,Auto,V4,Escape
+14300,27477, Gasoline, Black, Light Gray, FWD,Auto,V4,Fiesta
+18000,108593, E85 Flex Fuel, White Platinum Tri-Coat Metallic, Camel, 4WD,Auto,V2,Expedition EL
+22488,2142, Gasoline, Lightning Blue Metallic, Charcoal Black, Four Wheel Drive,Auto,V4,Escape
+56450,10, Gasoline, White Platinum Metallic Tri-Coat, Ebony Black, 4WD,Auto,V6,Explorer
+44798,95, Gasoline, Ingot Silver Metallic, Black, 4WD,Auto,V2,F-150
+55459,1, Diesel, Oxford White, Medium Earth Gray, 4WD,Auto,V2,F-250
+28999,78952, Gasoline, Oxford White, Ebony, 4WD,Auto,V2,Expedition EL
+10930,18045, Gasoline, Performance Blue, Charcoal Black, Front Wheel Drive,Auto,V2,Focus
+59395,10, E85 Flex Fuel, Special Paint, MEDIUM PEWTER, RWD,Auto,V6,Model Unknown
+51934,5, Gasoline, Black, Ebony Black, AWD,Auto,V3,Explorer
+22955,10, Gasoline, Magnetic Metallic, Charcoal Black, FWD,Manual,V4,Fiesta
+26500,1, E85 Flex Fuel, White Platinum, Medium Light Stone, 4WD,Auto,V4,Escape
+38603,5, Gasoline, Shadow Black, Ebony, AWD,Auto,V2,Edge
+42017,2, Gasoline, White, Dark Pewter, RWD,Auto,V8,Model Unknown
+30866,3, Gasoline, Ingot Silver Metallic, Db Leather-Trim Bucket Seats Charcoal Black Interior, 4WD,Auto,V4,Escape
+13995,83077, E85 Flex Fuel, Blue, Tan, 4WD,Auto,V2,Escape
+29950,32501, Gasoline, Vapor Silver Metallic, Charcoal/Crimson, RWD,Manual,V4,Mustang
+82550,8, Gasoline, Designo Diamond White Metallic, Saddle Brown/Black, AWD,Auto,V3,Model Unknown
+24295,5, E85 Flex Fuel, Magnetic, Charcoal Black, 4WD,Auto,V4,Escape
+23491,26, Gasoline, Smoke Metallic, Ebony Black, 4WD,Auto,V2,EcoSport
+31533,7, Gasoline, Ruby Red, Medium Light Stone, 4WD,Auto,V2,Escape
+33936,12, Gasoline, White Platinum Metallic Tri-Coat, Ebony, AWD,Auto,V2,Edge
+45525,5, Gasoline, Burgundy Velvet Metallic Tinted Clearcoat, Ebony, 4WD,Auto,V2,Explorer
+48999,6148, E85 Flex Fuel, Magnetic Metallic, Black, 4WD,Auto,V2,F-250
+36756,4, Gasoline, Shadow Black, Ebony Black, 4WD,Auto,V2,Explorer
+8495,51800, E85 Flex Fuel, Silver, Charcoal Black, FWD,Auto,V2,Focus
+5995,91747, Gasoline, Blue Flame Metallic, Gray, FWD,Auto,V4,Fiesta
+35305,5, Gasoline, Ruby Red Metallic Tinted Clearcoat, Ebony, AWD,Auto,V2,Edge
+29954,9811, Gasoline, Oxford White, Ebony, AWD,Auto,V2,Edge
+21423,2, Gasoline, Diamond White, Ebony Black, 4WD,Auto,V2,EcoSport
+24368,2, Gasoline, Ruby Red Metallic Tinted Clearcoat, Charcoal Black, 4WD,Auto,V5,Escape
+12500,32408, E85 Flex Fuel, White, Medium Light Stone, FWD,Auto,V2,Focus
+8595,123759, E85 Flex Fuel, Black, Gray, RWD,Auto,V6,Model Unknown
+83060,13, Diesel, Agate Black, Camelback, 4WD,Auto,V2,F-250
+40813,12, Gasoline, Stone Gray, Medium Earth Gray Cloth, 4WD/AWD,Auto,V2,F-250
+26398,4, E85 Flex Fuel, Black Metallic, Charcoal Black, 4WD,Auto,V4,Escape
+32593,4, E85 Flex Fuel, Ingot Silver Metallic, Charcoal Black, 4WD,Auto,V2,Escape
+22790,5, Gasoline, Lightning Blue, Medium Light Stone, FWD,Auto,V2,EcoSport
+9998,151684, Gasoline, Tuxedo Black Metallic, Charcoal Black, FWD,Auto,V2,Taurus
+20236,5, Gasoline, Shadow Black, Ebony, FWD,Auto,V2,Fusion
+14207,10, Gasoline, Lightning Blue Metallic, Charcoal Black, FWD,Auto,V4,Fiesta
+21999,10210, E85 Flex Fuel, Silver, Silver, AWD,Auto,V2,Taurus
+18780,40763, Hybrid, White Platinum Metallic Tri-Coat - White, Ebony Leather, Front Wheel Drive,Auto,V2,Fusion Energi
+48900,45625, Diesel, Ruby Red Metallic, Black, 4WD,Auto,V2,F-350
+36990,36545, Gasoline, Red, Black, 4WD,Auto,V6,F-150
+23589,5, Gasoline, White Platinum, Medium Light Stone, 4WD,Auto,V4,Escape
+59154,15, Gasoline, White, Black, 4WD,Auto,V2,F-150
+26992,7, Gasoline, Ruby Red Metallic, Medium Light Stone, FWD,Auto,V4,Escape
+14373,44244, Gasoline, Shadow Black, Ebony, FWD,Auto,V2,Fusion
+13926,5, Gasoline, Ingot Silver Metallic, Cloth Standard Bucket Seats Charcoal Black, FWD,Auto,V2,Focus
+40450,10, Gasoline, Dark Red, Ceramic, FWD,Auto,V2,Edge
+51994,10, Gasoline, Oxford White, Black w/Leather-Trimmed Bucket Seats, 4WD,Auto,V3,F-150
+18667,2002, Gasoline, Burgundy Velvet Metallic Tinted Clearcoat, Ebony, FWD,Auto,V4,Fusion
+40230,36280, Gasoline, Black Diamond Tricoat, Ebony/Ebony, RWD,Auto,V2,Model Unknown
+25495,11, Gasoline, Lightning Blue, Ebony Black, 4WD,Auto,V2,EcoSport
+16063,324, Gasoline, Chili Pepper Red, Charcoal Black, FWD,Auto,V2,Focus
+32799,5, Gasoline, Oxford White, Pewter, RWD,Auto,V2,Transit-250
+17690,44737, Gasoline, Black, Black, FWD,Auto,V2,Edge
+13990,51833, Hybrid, Oxford White, Ebony, FWD,CVT,V2,Fusion Hybrid
+35483,7, Gasoline, Shadow Black, Mayan Gray, AWD,Auto,V2,Edge
+21000,13623, Gasoline, White Platinum Tri-Coat Metallic, Medium Soft Ceramic, AWD,Auto,V2,Fusion
+30583,55, Gasoline, Orange, Ebony, RWD,Manual,V2,Mustang
+63180,4, Gasoline, Blue Metallic, Ebony, 4WD,Auto,V2,Expedition
+15500,59247, Gasoline, Deep Impact Blue, Ebony w/Cloth Front Bucket Seats, FWD,Auto,V2,Fusion
+23699,34998, E85 Flex Fuel, Dark Side Metallic, Black, FWD,Auto,V2,Explorer
+6500,53000, Gasoline, White, Gray, RWD,Auto,V4,Crown Victoria
+15922,41541, Gasoline, Evening Black, Light Sand, RWD,Auto,V2,Thunderbird
+46574,10, Gasoline, White Platinum Tri-Coat Metallic, Ebony Black, 4WD,Auto,V2,Explorer
+15845,15035, E85 Flex Fuel, Magnetic, Charcoal Black, FWD,Auto,V2,Focus
+35588,13, Gasoline, Glacier White, Gray, RWD,Auto,V3,Model Unknown
+56036,1, Hybrid, Nebula Gray Pearl, Black, AWD,CVT,V2,Model Unknown
+10995,91751, Gasoline, Tuxedo Black, Charcoal Black, 4WD,Auto,V4,Escape
+51950,2, Gasoline, Black, Medium Earth Gray, 4WD,Auto,V2,F-150
+14500,27149, Gasoline, Ingot Silver, Charcoal Black, FWD,Auto,V2,Escape
+29000,28527, Gasoline, White, Black, RWD,Manual,V2,Mustang
+27600,9051, Gasoline, Silver, Black, FWD,Auto,V2,Flex
+21999,81398, Diesel, Red, Medium Stone, 4WD,Auto,V2,F-350
+24550,5, E85 Flex Fuel, Oxford White, Gray, FWD,Auto,V4,Escape
+22964,12, Gasoline, Shadow Black, Ebony Black, 4WD,Auto,V2,EcoSport
+19199,28965, Gasoline, Shadow Black, Charcoal Black, FWD,Auto,V2,Fusion
+35363,1, Gasoline, Shadow Black, Ebony Black, 4WD,Auto,V2,Explorer
+27526,5, Gasoline, Ruby Red, Medium Light Stone, 4WD,Auto,V4,Escape
+12990,74598, Gasoline, White Platinum Metallic Tri-Coat, Medium Light Stone, FWD,Auto,V2,Edge
+19990,15750, Hybrid, Shadow Black, Ebony, FWD,CVT,V2,Fusion Hybrid
+32681,5, Gasoline, Orange Fury, Ebony, RWD,Auto,V2,Mustang
+38720,2650, Gasoline, Blue, Ebony Black, AWD,Auto,V3,Explorer
+23500,94804, E85 Flex Fuel, Red, Pale Adobe, 4WD,Auto,V5,F-150
+76555,358, Gasoline, Shadow Black, Medium Stone, 4WD,Auto,V6,Expedition
+79690,5, Gasoline, Ruby Red Metallic Tinted Clearcoat, Ebony, 4WD,Auto,V2,Expedition
+26862,60, Gasoline, Shadow Black, CHAR BLK HTD LTHR-TRIM FR, 4WD,Auto,V4,Escape
+38997,5299, Gasoline, Kona Blue, Ebony, RWD,Manual,V5,Mustang
+24784,10, Gasoline, Moondust Silver Metallic, Ebony Black, 4WD,Auto,V2,EcoSport
+5500,131375, Gasoline, Sterling Gray Metallic, Medium Stone, FWD,Auto,V2,Focus
+40440,10, Gasoline, Blue Metallic, Ebony, 4WD,Auto,V2,Explorer
+21595,29780, Gasoline, Guard, Dune, FWD,Auto,V2,Edge
+17622,21503, Hybrid, Shadow Black, Charcoal Black, FWD,Auto,V2,C-Max Hybrid
+22995,104015, E85 Flex Fuel, Green, Tan, 4WD,Auto,V2,Expedition
+36675,5, Gasoline, Lightning Blue, Medium Earth Gray, 4WD,Auto,V2,F-150
+17311,12, Gasoline, Shadow Black, Charcoal Black, FWD,Auto,V2,Focus
+22924,3, Gasoline, Shadow Black, Ebony Black, 4WD,Auto,V4,EcoSport
+13982,62679, Gasoline, Deep Impact Blue, Medium Light Stone, FWD,Auto,V4,Escape
+43896,53, Gasoline, Magnetic, Medium Earth Gray, 4WD,Auto,V2,F-250
+18205,2, Gasoline, Chili Pepper Red, Charcoal Black, FWD,Auto,V4,Fiesta
+15929,4, Gasoline, Magnetic Metallic, Charcoal Black, FWD,Auto,V2,Focus
+19985,14, Gasoline, Race Red, Ebony, FWD,Auto,V2,EcoSport
+14988,92769, Gasoline, Ebony, Charcoal Black, RWD,Manual,V8,Mustang
+48845,19, Gasoline, Burgundy Velvet Metallic Tinted Clearcoat, Ebony, 4WD,Auto,V2,Explorer
+13845,4, Gasoline, Bohai Bay Mint Metallic - Green, Charcoal Black Cloth, Front Wheel Drive,Auto,V6,Fiesta
+17320,5, E85 Flex Fuel, Blue Metallic, Charcoal Black, FWD,Auto,V2,Focus
+24455,12, Gasoline, Magnetic Metallic, Ebony, FWD,Auto,V4,Fusion
+26222,2, Hybrid, Ingot Silver Metallic, Ebony, FWD,CVT,V2,Fusion Hybrid
+21350,35627, Gasoline, Oxford White, Charcoal Black, FWD,Auto,V6,Flex
+25380,44407, Gasoline, Glacier White, Gray, RWD,Auto,V2,Model Unknown
+29635,6, E85 Flex Fuel, Sea Green, Medium Light Stone, 4WD,Auto,V4,Escape
+26334,6, Gasoline, Magnetic, Charcoal Black, 4WD,Auto,V4,Escape
+14998,4568, Gasoline, Vista Blue Metallic, Medium Dark Flint, RWD,Auto,V2,Ranger
+13693,43879, Gasoline, Bronze Fire Metallic Tinted Clearcoat, Charcoal Black, FWD,Auto,V4,Fusion
+23205,1, Gasoline, Oxford White, Medium Light Stone, FWD,Auto,V4,Fusion
+27574,15, Gasoline, Kona Blue Metallic, Ebony, RWD,Auto,V2,Mustang
+5495,162323, Gasoline, Gray, Black, FWD,Auto,V2,Fusion
+34850,16167, Gasoline, Magnetic Metallic, Ebony Black, 4WD,Auto,V2,Explorer
+26758,2, Gasoline, Ingot Silver, Ebony, AWD,Auto,V2,Edge
+41983,800, Gasoline, Crimson, Ebony, RWD,Auto,V2,Mustang
+31605,13, E85 Flex Fuel, Oxford White, Medium Earth Gray, RWD,Auto,V2,F-150
+34500,9, Gasoline, Ruby Red Metallic Tinted Clearcoat, Ebony Black, 4WD,Auto,V2,Explorer
+11900,83407, Gasoline, Ginger Ale Metallic, Charcoal Black, FWD,Auto,V2,Taurus
+42675,4, Gasoline, Blue Jeans Metallic, Medium Earth Gray, 4WD,Auto,V2,F-150
+17871,97364, Gasoline, White Platinum Tri-Coat Metallic, Medium Light Stone, 4WD,Auto,V2,Explorer
+22640,10, E85 Flex Fuel, Magnetic Metallic, Medium Light Stone, FWD,Auto,V2,Focus
+37706,120, Gasoline, Oxford White, Ebony Black, 4WD,Auto,V2,Explorer
+13606,82040, Gasoline, Deep Impact Blue, CHARCOAL BLACK, ALL WHEEL,Auto,V2,Fusion
+13821,3, Gasoline, Oxford White, CHAR BLK C, FWD,Auto,V4,Fiesta
+46520,3, Gasoline, Shadow Black, Medium Earth Gray, 2WD,Auto,V6,F-150
+28670,23, Gasoline, Ruby Red Metallic Tinted Clearcoat, Ebony, AWD,Auto,V2,Fusion
+28800,21634, Unknown, Candy Apple Red, Ivory, Rear Wheel Drive,Auto,V2,Mustang
+34995,106646, Diesel, Black, Black, 4WD,Auto,V8,F-350
+16810,14427, Gasoline, Black, Black, FWD,Manual,V4,Fiesta
+31998,4985, Gasoline, Black, Black, RWD,Manual,V2,Mustang
+14457,6, Gasoline, Shadow Black, Charcoal Black, FWD,Auto,V2,Focus
+28045,13, Gasoline, Shadow Black, Charcoal Black, 4WD,Auto,V4,Escape
+22998,16, Gasoline, Ruby Red Metallic, Ebony Black, 4WD,Auto,V2,EcoSport
+42004,197, Gasoline, Blue Jeans Metallic, Medium Earth Gray, 4WD,Auto,V2,F-150
+8991,105310, Hybrid, Sterling Gray Metallic, Medium Light Stone, FWD,CVT,V2,Fusion Hybrid
+15988,14016, E85 Flex Fuel, Ruby Red, Ceramic, FWD,Auto,V2,Focus
+35520,1, Gasoline, Magnetic Metallic, Medium Earth Gray, 4WD,Auto,V2,F-150
+35884,1, Gasoline, White Metallic, Ebony Black, 4WD,Auto,V2,Explorer
+25311,4, Gasoline, Race Red, Ebony Black, 4WD,Auto,V2,EcoSport
+37753,5, E85 Flex Fuel, Magnetic Metallic, Charcoal Black, RWD,Auto,V2,Transit-150
+16995,101138, Gasoline, Green, Charcoal Black, 4WD,Auto,V2,Explorer
+21919,2, Gasoline, Shadow Black, Ebony Black, 4WD,Auto,V4,EcoSport
+28900,35677, Gasoline, Ingot Silver Metallic, Charcoal Black, AWD,Auto,V2,Flex
+44210,10, Gasoline, Ingot Silver, Ebony Black, 4WD,Auto,V2,Explorer
+57000,13843, Gasoline, Shadow Black, Ebony, 4WD,Auto,V2,Expedition
+26484,215, Gasoline, Oxford White, Dark Earth Gray, AWD,Auto,V2,Fusion
+32500,13748, E85 Flex Fuel, Ingot Silver Metallic, Pewter, RWD,Auto,V2,Transit-350
+43500,6, Gasoline, Shadow Black, Medium Earth Gray, 4WD,Auto,V2,F-150
+33000,23382, Gasoline, Oxford White, Medium Earth Gray, 4WD,Auto,V2,F-150
+4990,175273, Gasoline, Harvest Gold Metallic, Medium Parchment, 4WD,Auto,V4,F-250
+21753,4, Gasoline, Shadow Black, Ebony Black, 4WD,Auto,V2,EcoSport
+34999,43, Gasoline, Platinum Dune Metallic, Gray, FWD,Auto,V2,Explorer
+14900,110000, Gasoline, Yellow, gray vinyl, 4X4,Auto,V2,F-350
+16208,13, Gasoline, Shadow Black, Charcoal Black, FWD,Auto,V4,Fiesta
+36588,42750, E85 Flex Fuel, Black, Black, 4WD,Auto,V2,F-250
+16220,5, Gasoline, Shadow Black, Charcoal Black, FWD,Auto,V2,Focus
+17429,5, Gasoline, Magnetic Metallic, Charcoal Black, FWD,Auto,V2,Focus
+73218,12, Gasoline, White, Medium Soft Ceramic, 4WD,Auto,V2,Expedition
+26950,51, Gasoline, Frozen White, Ebony, FWD,Auto,V2,Transit Connect
+46900,8876, E85 Flex Fuel, Champagne, TAN / BROWN, RWD,Auto,V6,Model Unknown
+40638,7, Gasoline, Oxford White, Ebony, RWD,Auto,V2,Transit-250
+16231,2, Gasoline, Lightning Blue Metallic, Charcoal Black, FWD,Auto,V2,Focus
+33536,4, Gasoline, Oxford White, Pewter, RWD,Auto,V2,Transit-250
+69550,3, Gasoline, White, Ebony, 4WD,Auto,V2,Expedition Max
+23274,27277, Gasoline, Gray, Ebony, FWD,Auto,V2,Edge
+26154,10, Gasoline, White Platinum Metallic Tri-Coat, Medium Light Stone, 4WD,Auto,V4,Escape
+44810,200, Gasoline, Magnetic Metallic, Ebony Black, 4WD,Auto,V2,Explorer
+42045,11, Gasoline, Oxford White, Charcoal Black, RWD,Auto,V2,Transit-250
+40929,144, Gasoline, Shadow Black, Ebony Black, AWD,Auto,V6,Explorer
+64527,3, Diesel, Blue Jeans Metallic, Black, 4WD,Auto,V2,F-250
+28880,99, Gasoline, White, Ebony, FWD,Auto,V2,Fusion
+17424,15946, Gasoline, Lightning Blue, Ebony, FWD,Auto,V2,Fusion
+46970,3, Gasoline, Shadow Black, Tan, RWD,Manual,V2,Mustang
+42565,7, Gasoline, Oxford White, Pewter, RWD,Auto,V2,Transit-250
+14705,5, Gasoline, Shadow Black, Charcoal Black, FWD,Auto,V4,Fiesta
+57129,5, Gasoline, Ruby Red Metallic Tinted Clearcoat, Black, 4WD,Auto,V2,F-150
+17230,48425, Gasoline, Sunset Metallic, Charcoal Black, FWD,Auto,V2,Edge
+17023,5, Gasoline, Lightning Blue, Charcoal Black, FWD,Auto,V3,Focus
+26330,48537, Gasoline, White, Black, 4WD,Auto,V2,Expedition
+71380,8698, Diesel, White Platinum Tri-Coat Metallic, Black, 4WD,Auto,V2,F-250
+50870,20, Gasoline, Ruby Red Metallic Tinted Clearcoat, Medium Stone, 4WD,Auto,V3,Expedition
+25995,132126, Gasoline, Charcoal, Black, 4WD,Auto,V2,F-150
+26178,10, E85 Flex Fuel, Ingot Silver, Charcoal Black, FWD,Auto,V3,Taurus
+12510,30029, Gasoline, Gray, Charcoal Black, FWD,Auto,V2,Focus
+22695,10, Gasoline, Diamond White, Ebony Black, FWD,Auto,V2,EcoSport
+37618,1, Gasoline, Ingot Silver, Ebony Black, 4WD,Auto,V2,Explorer
+34030,5090, Gasoline, White, Black, AWD,Auto,V2,Edge
+20995,17586, Gasoline, Moondust Silver Metallic, Black, 4WD,Auto,V2,EcoSport
+29686,6, Gasoline, Magnetic, Ebony Black, FWD,Auto,V3,Explorer
+65945,4, Diesel, Oxford White, Medium Light Camel, 4WD,Auto,V2,F-250
+12295,40348, Gasoline, Oxford White, Charcoal Black, FWD,Auto,V2,Focus
+14749,23291, Gasoline, Black, Charcoal Black, RWD,Auto,V3,Mustang
+21105,5, Gasoline, Magnetic, Ebony, FWD,Auto,V4,Fusion
+15600,43047, Gasoline, White, Medium Light Stone, 4WD,Auto,V4,Escape
+6994,186912, E85 Flex Fuel, Blue, Black, 4WD,Auto,V2,F-150
+28508,4, Gasoline, Oxford White, Medium Stone, FWD,Auto,V2,Explorer
+53888,3000, Gasoline, Blue, Gray, RWD,Auto,V3,Transit-250
+26598,18518, Gasoline, Red, Charcoal Black, RWD,Manual,V2,Mustang
+53210,345, Gasoline, Magnetic, Ebony, 4WD,Auto,V2,Explorer
+62600,19128, Diesel, White Gold Metallic, Camel, 4WD,Auto,V2,F-350
+49786,6, Gasoline, Burgundy, Ebony Black, 4WD,Auto,V2,Explorer
+16000,34116, Hybrid, White Platinum Tri-Coat Metallic, Medium Light Stone, FWD,CVT,V2,Fusion Hybrid
+51383,5965, Gasoline, Blue Jeans Metallic, Black, 4WD,Auto,V2,F-150
+64020,12, Gasoline, Oxford White, Black, 4WD,Auto,V2,F-250
+29531,12, Gasoline, Ingot Silver, Medium Stone, AWD,Auto,V3,Explorer
+13184,27789, Gasoline, Guard, Charcoal Black, FWD,Auto,V2,Fusion
+19442,10, E85 Flex Fuel, Ingot Silver, Charcoal Black, FWD,Auto,V2,Escape
+41270,8, Gasoline, Magnetic Metallic, Ebony, AWD,Auto,V3,Edge
+36176,5, Gasoline, Arc White, Very Dark Pewter, RWD,Auto,V3,Model Unknown
+17241,6, Gasoline, Shadow Black, Charcoal Black, FWD,Auto,V2,Focus
+24500,23463, Gasoline, Bronze Fire Metallic Tinted Clearcoat, Ebony, AWD,Auto,V2,Edge
+70001,417, Diesel, Black, Black / Dark Marsala, 4WD,Auto,V2,F-350
+19230,50661, Gasoline, Gray, Black, RWD,Auto,V2,Mustang
+34405,14, E85 Flex Fuel, Oxford White, Pewter, RWD,Auto,V2,Transit-150
+22917,4, Gasoline, Blue Metallic, Light Putty, FWD,Auto,V4,Fusion
+11595,53297, E85 Flex Fuel, Shadow Black, Charcoal Black, FWD,Auto,V2,Focus
+42626,10, Gasoline, Shadow Black, Black, 4WD,Auto,V2,F-150
+21250,32663, Gasoline, Tuxedo Black Metallic, Ebony, AWD,Auto,V2,Edge
+18221,19378, Gasoline, Ingot Silver Metallic, Charcoal Black, FWD,Auto,V4,Escape
+9914,114762, Gasoline, Dark Toreador Red Metallic, Graphite, 4WD,Auto,V2,F-350
+14500,32212, Gasoline, Ruby Red Metallic Tinted Clearcoat, Ebony, FWD,Auto,V4,Fusion
+39205,5, Gasoline, Magnetic Metallic, Ebony, AWD,Auto,V2,Edge
+32997,42729, Gasoline, Shadow Black, Ebony, 4WD,Auto,V2,Explorer
+25500,39519, Gasoline, Silver, Black, RWD,Auto,V2,Mustang
+23211,4, Gasoline, Ruby Red, Ebony, Front Wheel Drive,Auto,V5,Fusion
+9999,39441, Gasoline, White, Black, Front Wheel Drive,Auto,V6,Edge
+21799,5, Gasoline, Shadow Black, Ebony, FWD,Auto,V4,Fusion
+42962,10, Gasoline, Magnetic Metallic, Black, 4WD,Auto,V3,F-150
+41426,25, Gasoline, Ingot Silver, Black, 4WD,Auto,V2,F-150
+24227,10, Gasoline, Agate Black, Light Putty w/Cloth/Vinyl Bolster Seats, FWD,Auto,V4,Fusion
+38947,5, Gasoline, Shadow Black - Black, Charcoal Black Leather, All Wheel Drive,Auto,V3,Taurus
+26133,7, Gasoline, Lightning Blue Metallic, Ebony, FWD,Auto,V4,Escape
+33659,18769, Gasoline, Ruby Red Metallic, Light Stone, 4WD,Auto,V2,Explorer
+16750,34292, Gasoline, Deep Impact Blue, Charcoal Black, FWD,Auto,V2,Fusion
+30800,50273, Gasoline, Gray, Ebony, 4WD,Auto,V2,Expedition EL
+32500,115284, Diesel, Tan, Tan, 4X4,Auto,V6,F-250
+37785,10, Gasoline, Shadow Black, Medium Earth Gray, 4WD,Auto,V2,F-150
+7495,119983, Gasoline, Black, Black, FWD,Auto,V3,Flex
+49195,50, Gasoline, Lead Foot, Black, 4WD,Auto,V2,F-150
+13549,54218, Gasoline, Silver, Charcoal Black, FWD,Auto,V4,Escape
+8389,100713, E85 Flex Fuel, Black, Charcoal Black, FWD,Auto,V2,Focus
+14977,104855, E85 Flex Fuel, Oxford White, Medium Flint, RWD,Auto,V4,E350 Super Duty
+13900,92900, Gasoline, Tuxedo Black Metallic, Medium Light Stone, FWD,Auto,V2,Edge
+7995,121132, Gasoline, Black, Gray, Automatic 6-Speed,Auto,V4,Expedition
+20719,11, Gasoline, Moondust Silver Metallic, Ebony Black, 4WD,Auto,V2,EcoSport
+16520,2, Gasoline, Magnetic, Charcoal Black, FWD,Auto,V2,Focus
+53661,23, Diesel, Shadow Black, Black, 4WD,Auto,V6,F-150
+56585,19, Diesel, Shadow Black, Black, 4WD,Auto,V2,F-150
+71395,104, Diesel, Magnetic, Black, 4WD,Auto,V2,F-250
+8995,166744, Gasoline, Black, Black, 4X4,Auto,V4,Expedition
+35112,12, Gasoline, Ingot Silver, Ebony, AWD,Auto,V2,Edge
+26235,5, Gasoline, Shadow Black, Charcoal Black, Four Wheel Drive,Auto,V5,Escape
+31178,5, Gasoline, Oxford White, Pewter, RWD,Auto,V2,Transit-150
+28816,3, Gasoline, White Platinum Metallic Tri-Coat, Charcoal Black, Front Wheel Drive,Auto,V4,Escape
+42000,3420, Gasoline, Magnetic, Medium Earth Gray, 4WD,Auto,V2,F-150
+17543,2, Gasoline, Ingot Silver, Charcoal Black, FWD,Auto,V3,Focus
+5550,143184, E85 Flex Fuel, Blue Candy Metallic, Charcoal Black, FWD,Auto,V2,Focus
+20900,179671, Diesel, Red, Tan, Four Wheel Drive,Auto,V8,F-250
+14790,46362, Gasoline, Oxford White, Medium Soft Ceramic, FWD,Auto,V4,Fusion
+19029,13, E85 Flex Fuel, White Platinum Tri-Coat Metallic, Charcoal Black, FWD,Auto,V2,Focus
+27998,30793, Gasoline, Gray, Black, AWD,Auto,V2,Edge
+28045,5, Gasoline, Lightning Blue Metallic, Charcoal Black, 4WD,Auto,V4,Escape
+35330,4, Gasoline, Ruby Red Metallic, Medium Stone, 4WD,Auto,V2,Explorer
+10490,80713, Gasoline, Candy Red Metallic Tinted, Light stone, FWD,Auto,V3,Taurus
+33500,45337, Gasoline, Ruby Red Metallic Tinted Clearcoat, Ebony, 4WD,Auto,V2,Expedition
+35252,19124, Gasoline, Shadow Black, Ebony Black, 4WD,Auto,V2,Explorer
+21854,5, E85 Flex Fuel, Shadow Black, Charcoal Black, FWD,Auto,V2,Focus
+44616,2, Gasoline, Velocity Blue Metallic, Ebony, RWD,Manual,V3,Mustang
+24998,83001, E85 Flex Fuel, Silver, Black, 4WD,Auto,V2,F-150
+17999,33533, Hybrid, Lightning Blue, Gray, FWD,CVT,V2,Fusion Hybrid
+21495,42930, Gasoline, Tuxedo Black Metallic, Ebony, AWD,Auto,V2,Edge
+42300,48, Gasoline, Shadow Black, Black, 4WD,Auto,V2,F-150
+4993,114347, Gasoline, Cd Silver Clearcoat Metallic, Charcoal, FWD,Auto,V2,Focus
+38064,2, Gasoline, Shadow Black, Ebony Black, AWD,Auto,V3,Explorer
+10845,33748, E85 Flex Fuel, Tuxedo Black, Black, Front Wheel Drive,Auto,V2,Focus
+38506,37, Gasoline, Ingot Silver, Ebony Black, AWD,Auto,V3,Explorer
+21999,32482, Hybrid, White Platinum Tri-Coat Metallic, Medium Soft Ceramic, FWD,CVT,V2,Fusion Hybrid
+32056,10, E85 Flex Fuel, Oxford White, Dark Earth Gray, 4WD,Auto,V2,F-150
+28440,2, Gasoline, Ruby Red Metallic Tinted Clearcoat, Charcoal Black, 4WD,Auto,V4,Escape
+29900,5, Gasoline, Rich Copper, Ebony, FWD,Auto,V4,Fusion
+14749,23291, Gasoline, Black, Charcoal Black, RWD,Auto,V3,Mustang
+17000,25966, Gasoline, Ingot Silver, Ebony, FWD,Auto,V4,Fusion
+50265,12, Gasoline, Ruby Red Metallic, Black, 4WD,Auto,V2,F-150
+14041,3, Gasoline, Shadow Black, Charcoal Black, FWD,Auto,V4,Fiesta
+17000,38318, Hybrid, Ingot Silver, Charcoal Black, FWD,CVT,V2,Fusion Energi
+16498,58752, Gasoline, Oxford White, Medium Light Stone, FWD,Auto,V2,Edge
+40182,348, Gasoline, Shadow Black, Ebony Black, 4WD,Auto,V2,Explorer
+16430,58801, Gasoline, Black, Black, 4WD,Auto,V2,Escape
+18980,1201, Gasoline, Ingot Silver, Ebony, FWD,Auto,V2,Fusion
+25948,51586, Gasoline, Shadow Black, Ebony Black, 4WD,Auto,V2,Explorer
+55995,24489, Gasoline, Shadow Black, Ebony, 4WD,Auto,V2,Expedition
+16362,9, Gasoline, Ingot Silver Metallic, Charcoal Black, FWD,Auto,V2,Focus
+20956,10, Gasoline, Smoke Metallic, Ebony Black, FWD,Auto,V3,EcoSport
+31995,26203, E85 Flex Fuel, White, Gray, 2WD,Auto,V2,Transit-350
+63236,3, Gasoline, Magnetic, Ebony, 4WD,Auto,V2,Expedition
+9427,126505, Gasoline, Deep Impact Blue Metallic, Charcoal Black, FWD,Auto,V4,Fusion
+26440,3, Gasoline, Moondust Silver Metallic, Ebony, 4WD,Auto,V2,EcoSport
+17503,3, Gasoline, Magnetic Metallic, Black, FWD,Auto,V4,Fiesta
+43252,10, Gasoline, White Platinum Metallic Tri-Coat, Ebony Black, AWD,Auto,V6,Explorer
+10495,70075, Gasoline, Red Candy Tinted Metallic, Charcoal Black, FWD,Auto,V2,Taurus
